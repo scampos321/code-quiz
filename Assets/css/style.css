@@ -1,0 +1,20 @@
+#start {
+    margin: auto;
+    padding: 50px;
+    border: 2px solid black;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-color: beige;
+}
+
+#title {
+    padding-left: 480px;
+}
+
+p {
+    text-align: center;
+}
