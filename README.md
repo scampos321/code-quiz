@@ -1,1 +1,2 @@
 # code-quiz
+This is a javascript quiz using jQuery. To finish the quiz you have 30 seconds to answer all the questions. The javascript quiz consists of 6 questions and they are all multiple choice. At the end of the quiz there will be a score board of the correct answers, wrong answers, and unanswered questions.
